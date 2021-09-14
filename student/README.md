@@ -1,1 +1,1 @@
-# student-registration-system-with-login-system
+# sports-event-management-system-with-login-system
